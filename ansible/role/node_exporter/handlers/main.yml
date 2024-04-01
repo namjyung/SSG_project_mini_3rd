@@ -1,8 +1,0 @@
----
-# handlers file for node_exporter
-# - name: restart node-exporter
-#   service: 
-#     name: node-exporter 
-#     state: restarted
-#     daemon_reload: yes
-#     enabled: yes 
